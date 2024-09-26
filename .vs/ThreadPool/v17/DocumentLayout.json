@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\ThreadPool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF5B9BF-20E0-4180-AE1D-E2E971C688C5}|ThreadPool\\ThreadPool.csproj|c:\\users\\asus\\source\\repos\\threadpool\\threadpool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF5B9BF-20E0-4180-AE1D-E2E971C688C5}|ThreadPool\\ThreadPool.csproj|solutionrelative:threadpool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ThreadPool\\ThreadPool\\Program.cs",
+              "RelativeDocumentMoniker": "ThreadPool\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ThreadPool\\ThreadPool\\Program.cs",
+              "RelativeToolTip": "ThreadPool\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T16:06:46.913Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
